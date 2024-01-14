@@ -1,6 +1,6 @@
 
 
-![](https://cdn.discordapp.com/attachments/1020903723133829210/1020915800493793400/OpenSauce.svg)[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+![](https://github.com/IamTails/auxilio/blob/cd211ddc976873dc2e706ec577bc903c4789e329/assets/images/opensource.svg)[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 [![Contributors](https://img.shields.io/github/contributors/IamTails/auxilio.svg?style=flat&color=CCCCFF)](https://github.com/IamTails/auxilio/graphs/contributors)
 
 <br />
@@ -57,6 +57,6 @@ This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE)
 ## Support
 
 For support, you can contact us on the [Discord Support Server](https://discord.gg/auxilio).
-Project Link: https://github.com/IamTails/auxilio/issues
+Project Link: https://github.com/IamTails/auxilio
 
 
