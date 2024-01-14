@@ -1,6 +1,6 @@
 
 
-![](https://github.com/IamTails/auxilio/blob/cd211ddc976873dc2e706ec577bc903c4789e329/assets/images/opensource.svg)[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+![](https://raw.githubusercontent.com/IamTails/auxilio/cd211ddc976873dc2e706ec577bc903c4789e329/assets/images/opensource.svg)[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 [![Contributors](https://img.shields.io/github/contributors/IamTails/auxilio.svg?style=flat&color=CCCCFF)](https://github.com/IamTails/auxilio/graphs/contributors)
 
 <br />
