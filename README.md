@@ -5,8 +5,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="https://cdn.discordapp.com/attachments/1141716941619335268/1194653768747331755/image-removebg-preview_8.png?ex=65b12306&is=659eae06&hm=7c2b4091f170880c3983d155b33049c0f920b2a61c880f0f0c2dd5b80dbb98e5&" alt="Logo" width="80" height="90">
+  <a href="https://github.com/IamTails/auxilio">
+    <img src="https://github.com/IamTails/auxilio/blob/main/assets/images/auxilio.png?raw=true" alt="Logo" width="80" height="90">
   </a>
 
 <h3 align="center">Auxilio</h3>
